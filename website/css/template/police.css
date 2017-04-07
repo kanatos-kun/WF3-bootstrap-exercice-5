@@ -1,0 +1,65 @@
+
+/*font normal*/
+@font-face{
+    font-family:gotham;
+    src:url(../../media/fonts/GOTHAM-BLACK.TTF);
+}
+
+/*font gras*/
+@font-face{
+    font-family:gotham;
+    font-weight:bold;
+    src:url(../../media/fonts/GOTHAM-BOLD.TTF);
+}
+
+/*font gras+*/
+@font-face{
+    font-family:gotham;
+    font-weight:bolder;
+    src:url(../../media/fonts/GOTHAM-ULTRA.TTF);
+}
+
+/*font light*/
+@font-face{
+    font-family:gotham;
+    font-weight:lighter;
+    src:url(../../media/fonts/GOTHAM-LIGHT.TTF);
+}
+
+/*font light italic*/
+@font-face{
+    font-family:gotham;
+    font-weight:lighter;
+    font-style:italic;
+    src:url(../../media/fonts/GOTHAM-LIGHTITALIC.TTF);
+}
+
+/*font light+*/
+@font-face{
+    font-family:gotham;
+    font-weight:200;
+    src:url(../../media/fonts/GOTHAM-XLIGHT.TTF);
+}
+
+/*font light+ italic*/
+@font-face{
+    font-family:gotham;
+    font-weight:200;
+    font-style:italic;
+    src:url(../../media/fonts/GOTHAM-XLIGHTITALIC.TTF);
+}
+
+/*font thin*/
+@font-face{
+    font-family:gotham;
+    font-weight:100;
+    src:url(../../media/fonts/GOTHAM-THIN.TTF);
+}
+
+/*font thin italic*/
+@font-face{
+    font-family:gotham;
+    font-weight:100;
+    font-style:italic;
+    src:url(../../media/fonts/GOTHAM-THINITALIC.TTF);
+}

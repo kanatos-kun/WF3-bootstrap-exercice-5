@@ -1,0 +1,34 @@
+/* put your code here*/
+@import 'police.css';
+
+body{
+    /*font-style:italic;*/
+    font-weight:100;
+    font-family:gotham;
+}
+
+/**************************************************************************** 
+								[^SECTIONHEADER]
+********************************************************************************/
+.sectionHeader p{
+	margin-top:150px;
+}
+
+.frost{
+   background: rgba(245, 245, 245, 0.9);
+    height: 88px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    -webkit-filter:blur(10px);
+    filter: url(#blur-effect-1);
+}
+
+.masthead {
+    z-index:1100;
+}
+
+.site-wrapper-inner{
+    background: url(../../media/img/background1.png) no-repeat center center fixed; 
+}
